@@ -4,6 +4,8 @@ This simple UI uses Vue 3 in Vite.
 
 It accepts an input for College Name and displays a list of matching Colleges and puts markers on a map to show where the college results exist.
 
+<img width="1273" alt="image" src="https://user-images.githubusercontent.com/57177/175844893-29453507-f33c-4fa5-ac16-a0b36b9a80ba.png">
+
 ## Project Setup
 
 ```sh
